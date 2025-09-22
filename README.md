@@ -16,5 +16,5 @@ I’m also eager to **contribute to open-source projects** aligned with these go
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### connect with me
+### Connect with me
 https://www.linkedin.com/in/adam-jemal-5925b3369/
