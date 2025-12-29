@@ -17,6 +17,7 @@ I’m also eager to **contribute to open-source projects** aligned with these go
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![postgres](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![c++](https://img.shields.io/badge/C++-23+-pink)
+![mongodb](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
 ### Connect with me
